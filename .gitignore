@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+sc_blog.egg-info/
